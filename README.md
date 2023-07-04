@@ -4,7 +4,10 @@
 第一步 下载插件：
 ![image](https://github.com/sheepandriy/ZMY_BiliBiliLiveLink/assets/72051422/264908a6-62ae-4c94-b4df-1a7825a0e401)
 
-第二步 解压到UE5项目路径下的Plugins文件夹下：
+第二步 解压到UE5项目路径下的Plugins文件夹下（没有就新建一个）：
+
+![image](https://github.com/sheepandriy/ZMY_BiliBiliLiveLink/assets/72051422/65c641d0-8201-41d8-94e4-99d70c51b766)
+![image](https://github.com/sheepandriy/ZMY_BiliBiliLiveLink/assets/72051422/c8445bfd-bcb7-4598-adce-c5a0150a83ca)
 ![image](https://github.com/sheepandriy/ZMY_BiliBiliLiveLink/assets/72051422/ac38b3f0-d8c6-4562-87f6-f98ce1172d23)
 
 第三步 运行项目，会提示是否编译插件，选择 “是”：
