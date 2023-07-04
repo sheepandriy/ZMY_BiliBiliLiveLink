@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ZMY_BiliBiliLiveLink",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "ZMY",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ZMY_BiliBiliLiveLink",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
