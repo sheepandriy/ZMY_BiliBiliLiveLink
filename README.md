@@ -1,6 +1,8 @@
 # 使用说明
 插件仅支持UE5
 
+B站视频教程：https://www.bilibili.com/video/BV19g4y1c7F3/?share_source=copy_web&vd_source=9f70fee1a38a52f89f6234e83c613d7c
+
 B站直播开放平台：https://open-live.bilibili.com/
 
 B站弹幕直播互动开发文档：https://open-live.bilibili.com/document/bdb1a8e5-a675-5bfe-41a9-7a7163f75dbf
