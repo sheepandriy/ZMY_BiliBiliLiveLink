@@ -1,7 +1,10 @@
 # 使用说明
 插件仅支持UE5
+
 B站直播开放平台：https://open-live.bilibili.com/
+
 B站弹幕直播互动开发文档：https://open-live.bilibili.com/document/bdb1a8e5-a675-5bfe-41a9-7a7163f75dbf
+
 
 第一步 下载插件：
 ![image](https://github.com/sheepandriy/ZMY_BiliBiliLiveLink/assets/72051422/264908a6-62ae-4c94-b4df-1a7825a0e401)
